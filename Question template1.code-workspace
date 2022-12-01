@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Question template1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Question template1"
+	}
+}
