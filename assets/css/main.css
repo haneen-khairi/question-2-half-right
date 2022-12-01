@@ -26,8 +26,7 @@ a {
     text-decoration: none;
 }
 
-h1 {
-    color: #813739;
+h1 { 
     line-height: 1.9;
     font-size: 1.9rem;
 }
@@ -55,7 +54,7 @@ p {
 }
 
 .sec-question1 {
-    background-image: url(../img/bg1.png);
+    /* background-image: url(../img/bg1.png); */
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -117,8 +116,7 @@ p {
 }
  
 @media screen and (max-width:1289px){
-    h1 {
-        color: #813739;
+    h1 { 
         line-height: 1.9;
         font-size: 1.6rem;
     }
@@ -127,8 +125,7 @@ p {
     .sec-question1{
         padding:5px;
     }
-    h1 {
-        color: #813739;
+    h1 { 
         line-height: 1.9;
         font-size: 1.5rem;
     }
@@ -143,7 +140,7 @@ p {
 }
 @media screen and (max-width:789px) {
     .sec-question1 {
-        background-image: url(../img/bg1.png);
+        /* background-image: url(../img/bg1.png); */
         background-position: center left;
         background-repeat: no-repeat;
         background-size: cover;
@@ -169,8 +166,7 @@ p {
     .question-img-container img {
         width: 420px;
     }
-    h1 {
-        color: #813739;
+    h1 { 
         line-height: 1.4;
         font-size: 1.4rem;
     }
@@ -193,18 +189,11 @@ p {
 .btn-questions {
     width: 110px;
 }
-h1 {
-    color: #813739;
+h1 { 
     line-height: 1.9;
     font-size: 1.3rem;
 }
 }
 
 
-@font-face {
-    font-family:myfontar;
-    src: url(../fonts/Noto_Kufi_Arabic/NotoKufiArabic-Light.ttf);
-}
-* {
-    font-family: myfontar!important;
-}
+ 
